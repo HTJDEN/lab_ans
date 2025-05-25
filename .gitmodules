@@ -1,0 +1,6 @@
+[submodule "lab3_soln"]
+	path = lab3_soln
+	url = https://github.com/mdilyasf/lab3_soln.git
+[submodule "lab2_soln"]
+	path = lab2_soln
+	url = https://github.com/mdilyasf/lab2_soln.git
